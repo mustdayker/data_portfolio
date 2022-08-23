@@ -9,4 +9,4 @@
 2|Исследование надежности заемщиков|Выяснить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|Изучение методов предобработки данных. (`pandas`)
 
 Так же есть вариант в PDF
-- [Музыка больших городов](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_01_project_music_big_city.pdf)
+1. [Музыка больших городов](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_01_project_music_big_city.pdf)
