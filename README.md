@@ -6,6 +6,6 @@
 
 №|Название проекта|Краткое описание целей проекта
 -|-|-
-1|[Музыка больших городов](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb)|Первое знакомство с инструментарием Python для анализа данных. (`pandas`)
+1|[Музыка больших городов](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb)|**Задача проекта**: Проверить гипотезы о предпочтениях музыки в разных городах. **Цель проекта**: Первое знакомство с инструментарием Python для анализа данных. (`pandas`)
 2|Исследование надежности заемщиков|Изучение методов предобработки данных. (`pandas`)
 3|Линк на ReadMe|[Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/README.md)
