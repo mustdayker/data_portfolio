@@ -27,4 +27,7 @@ $RECYCLE.BIN/
 # Jupyter Notebook temp files
 .ipynb_checkpoints
 
+# Folders
+datasets
+
 # End of https://www.toptal.com/developers/gitignore/api/windows
