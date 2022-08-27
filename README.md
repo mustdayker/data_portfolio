@@ -5,7 +5,7 @@
 
 №|Название проекта|Задачи проекта|Цели проекта
 -|-|-
-**Анализ Данных**| | 
+**Анализ Данных**| fgh| gfh
 [Музыка больших городов](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb)|Проверить гипотезы о музыкальных предпочтениях в разных городах. | Первое знакомство с инструментарием Python для анализа данных. (`pandas`)
 [Исследование надежности заемщиков](https://github.com/mustdayker/data_portfolio/blob/main/s_02_project_investigation_of_the_reliability.ipynb)|Выяснить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|Изучение методов предобработки данных. (`pandas`)
 [Исследование объявлений о продаже квартир](https://github.com/mustdayker/data_portfolio/blob/main/s_03_project_research_sale_house.ipynb)|Определить факторы влияющие на стоимость квартиры.|Исследовательский анализ данных. Освоение диаграмм и графиков (`pandas`, `matplotlib`)
