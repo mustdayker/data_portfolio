@@ -13,7 +13,7 @@
 Выявление закономерностей успешности игр ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_05_combined-project_games.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_05_combined-project_games.pdf))|Выявить факторы влияющие на успешность игр для планирования рекламной компании. |**Сборный проект**. Закрепление пройденных тем. (`pandas`, `matplotlib`, `numpy`, `scipy`)
 
 
-## Модуль 2: Машинное обучение
+### Модуль 2: Машинное обучение
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Рекомендация тарифов ([ipynb]() / [pdf]())||(`pandas`)
