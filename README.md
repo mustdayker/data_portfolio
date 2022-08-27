@@ -9,17 +9,17 @@
 Музыка больших городов ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_01_project_music_big_city.pdf))|Проверить гипотезы о музыкальных предпочтениях в разных городах. | Первое знакомство с инструментарием Python для анализа данных. (`pandas`)
 Исследование надежности заемщиков ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_02_project_investigation_of_the_reliability.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_02_project_investigation_of_the_reliability.pdf))|Выяснить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|Изучение методов предобработки данных. (`pandas`)
 Исследование объявлений о продаже квартир ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_03_project_research_sale_house.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_03_project_research_sale_house.pdf))|Определить факторы влияющие на стоимость квартиры.|Исследовательский анализ данных. Освоение диаграмм и графиков (`pandas`, `matplotlib`)
-[Определение перспективного тарифа для телеком компании] ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_04_project_tariff_telecom.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_04_project_tariff_telecom.pdf))|Проанализировать поведение клиентов и сделать вывод — какой тариф лучше|Исследовательский анализ, проверка статистических гипотез (`pandas`, `matplotlib`, `numpy`, `scipy`)
-Выявление закономерностей успешности игр|Выявить факторы влияющие на успешность игр для планирования рекламной компании. |**Сборный проект**. Закрепление пройденных тем. (`pandas`, `matplotlib`, `numpy`, `scipy`)
+Определение перспективного тарифа для телеком компании ([ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_04_project_tariff_telecom.ipynb) / [pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_04_project_tariff_telecom.pdf))|Проанализировать поведение клиентов и сделать вывод — какой тариф лучше|Исследовательский анализ, проверка статистических гипотез (`pandas`, `matplotlib`, `numpy`, `scipy`)
+Выявление закономерностей успешности игр ([ipynb]() / [pdf]())|Выявить факторы влияющие на успешность игр для планирования рекламной компании. |**Сборный проект**. Закрепление пройденных тем. (`pandas`, `matplotlib`, `numpy`, `scipy`)
 
 
 ## Модуль 2: Введение в машинное обучение
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-Рекомендация тарифов||(`pandas`)
-Отток клиентов||(`pandas`)
-Выбор локации для скважины||(`pandas`)
-Восстановление золота из руды||(`pandas`)
+Рекомендация тарифов ([ipynb]() / [pdf]())||(`pandas`)
+Отток клиентов ([ipynb]() / [pdf]())||(`pandas`)
+Выбор локации для скважины ([ipynb]() / [pdf]())||(`pandas`)
+Восстановление золота из руды ([ipynb]() / [pdf]())||(`pandas`)
 
 ## Модуль 3: Машинное обучение +
 Название проекта|Задачи проекта|Цели проекта
