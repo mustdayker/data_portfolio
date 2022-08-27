@@ -16,8 +16,8 @@
 ## Модуль 2: Машинное обучение
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-Рекомендация тарифов [ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_06_project_recommend_tariffs.ipynb)/[pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_06_project_recommend_tariffs.pdf)|Построить модель для классификации, которая выберет подходящий тариф, на основе поведения клиентов.|Первое знакомство с машинным обучением. `sklearn`, `matplotlib`, `pandas`
-Отток клиентов [ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_07_project_customer_outflow.ipynb)/[pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_07_project_customer_outflow.pdf)|Спрогнозировать уйдет ли клиент в ближайшее время или нет.|Изучение метрик классификации. Подготовка признаков (техника прямого кодирования / масштабирование). Борьба с дизбалансом классов. `sklearn`, `matplotlib`, `pandas`
+Рекомендация тарифов [ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_06_project_recommend_tariffs.ipynb)/[pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_06_project_recommend_tariffs.pdf)|Построить модель классификации, которая выберет подходящий тариф, на основе поведения клиентов.|Первое знакомство с машинным обучением. `sklearn`, `matplotlib`, `pandas`
+Отток клиентов [ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_07_project_customer_outflow.ipynb)/[pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_07_project_customer_outflow.pdf)|Построить модель классификации, которая спрогнозирует уйдет ли клиент в ближайшее время или нет.|Изучение метрик классификации. Подготовка признаков (техника прямого кодирования / масштабирование). Борьба с дизбалансом классов. `sklearn`, `matplotlib`, `pandas`
 Выбор локации для скважины [ipynb]()/[pdf]()||`pandas`
 Восстановление золота из руды [ipynb]()/[pdf]()||`pandas`
 
