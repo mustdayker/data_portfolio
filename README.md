@@ -17,7 +17,7 @@
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Рекомендация тарифов [ipynb](https://github.com/mustdayker/data_portfolio/blob/main/s_06_project_recommend_tariffs.ipynb)/[pdf](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_06_project_recommend_tariffs.pdf)|Построить модель для классификации, которая выберет подходящий тариф, на основе поведения клиентов.|Первое знакомство с машинным обучением. `sklearn`, `matplotlib`, `pandas`
-Отток клиентов [ipynb]()/[pdf]()||`pandas`
+Отток клиентов [ipynb]()/[pdf]()|Спрогнозировать уйдет ли клиент в ближайшее время или нет.|Изучение метрик классификации. Масштабирование признаков. Борьба с дизбалансом классов. `sklearn`, `matplotlib`, `pandas`
 Выбор локации для скважины [ipynb]()/[pdf]()||`pandas`
 Восстановление золота из руды [ipynb]()/[pdf]()||`pandas`
 
