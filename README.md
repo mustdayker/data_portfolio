@@ -25,7 +25,7 @@
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Защита персональных данных клиентов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_10_project_protection_of_personal_data.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_10_project_protection_of_personal_data.pdf)|Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.|Разобраться, как ведет себя линейная регрессия изнутри. **`numpy`**, **`sklearn`**, **`pandas`**
-Определение стоимости автомобилей [**ipynb**]()/[**pdf**]()|Построить модель для определения рыночной стоиости автомобиля| **`lightgbm`**, **`xgboost`**, **`catboost`**
+Определение стоимости автомобилей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_11_project_cost_of_the_car.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_11_project_cost_of_the_car.pdf)|Построить модель для определения рыночной стоиости автомобиля| **`lightgbm`**, **`xgboost`**, **`catboost`**
 Временные ряды|**`19 - 25 сентября`**| 
 Машинное обучение для текстов|**`3 - 9 октября`**| 
 
