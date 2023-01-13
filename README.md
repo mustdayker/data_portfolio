@@ -6,7 +6,7 @@
 
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-Музыка больших городов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_01_project_music_big_city.pdf)|Проверить гипотезы о музыкальных предпочтениях в разных городах. | Первое знакомство с инструментарием Python для анализа данных. `pandas`
+Музыка больших городов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_01_project_music_big_city.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_01_project_music_big_city.pdf)|Проверить гипотезы о музыкальных предпочтениях в разных городах. | Первое знакомство с инструментарием Python для анализа данных. **`pandas`**
 Исследование надежности заемщиков [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_02_project_investigation_of_the_reliability.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_02_project_investigation_of_the_reliability.pdf)|Выяснить, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.|Изучение методов предобработки данных. `pandas`
 Исследование объявлений о продаже квартир [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_03_project_research_sale_house.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_03_project_research_sale_house.pdf)|Определить факторы влияющие на стоимость квартиры.|Исследовательский анализ данных. Освоение диаграмм и графиков. `matplotlib`, `pandas`
 Определение перспективного тарифа для телеком компании [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_04_project_tariff_telecom.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_04_project_tariff_telecom.pdf)|Проанализировать поведение клиентов и сделать вывод — какой тариф лучше|Исследовательский анализ. Проверка статистических гипотез. `scipy`, `matplotlib`, `numpy`, `pandas`
@@ -32,6 +32,6 @@
 ## Модуль 4: SQL, Компьютерное зрение, Обучение без учителя
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-SQL [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|**`24 - 30 октября`**|  
+SQL [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы инфолрмации из базы данных|Закрепить навыки написания запросов **`SQL`**
 Компьютерное зрение|**`7 - 13 ноября`**| 
 Диплом|**`28 ноября - 11 декабря`**| 
