@@ -32,6 +32,6 @@
 ## Модуль 4: SQL, Компьютерное зрение, Обучение без учителя
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-SQL [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
+Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
 Компьютерное зрение|**`7 - 13 ноября`**| 
 Диплом|**`28 ноября - 11 декабря`**| 
