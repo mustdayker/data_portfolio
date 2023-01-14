@@ -32,6 +32,6 @@
 ## Модуль 4: SQL, Компьютерное зрение, Финальный проект
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/ipynb/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
+Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
 Компьютерное зрение [**ipynb**]()/[**pdf**]()|| 
 Диплом [**ipynb**]()/[**pdf**]()|| 
