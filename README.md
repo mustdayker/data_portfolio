@@ -21,7 +21,7 @@
 Выбор локации для скважины [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_08_project_location_for_the_well.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_08_project_location_for_the_well.pdf)|Построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль|Работа с моделями регрессии. Техника Bootstrap. Поиск доверительного интервала. **`sklearn`**, **`numpy`**, **`pandas`**
 Восстановление золота из руды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_09_combined_project_gold.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_09_combined_project_gold.pdf)|Построить модель, которая предскажет коэффициент восстановления золота из золотосодержащей руды|**Сборный проект**. Закрепление пройденных тем. Создание собственных метрик для регрессии. **`sklearn`**, **`matplotlib`**, **`numpy`**, **`pandas`**
 
-## Модуль 3: Линейная алгебра, Численные методы, Временные ряды
+## Модуль 3: Линейная алгебра, Численные методы, Временные ряды, Работа с текстом
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Защита персональных данных клиентов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_10_project_protection_of_personal_data.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_10_project_protection_of_personal_data.pdf)|Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.|Разобраться, как ведет себя линейная регрессия изнутри. **`numpy`**, **`sklearn`**, **`pandas`**
@@ -29,7 +29,7 @@
 Прогнозирование заказов такси [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_12_project_taxi_orders.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_12_project_taxi_orders.pdf)|Построить модель для прогнозирования количества заказов такси на следующий час|Изучение методов работы с временными рядами **`TimeSeriesSplit`**, **`seasonal_decompose`**
 Токсичные комментарии [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_13_project_toxic_comments.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_13_project_toxic_comments.pdf)|Обучить модель классифицировать комментарии на позитивные и негативные|Освоить методы работы с текстом в машинном обучении **`nltk`**, **`re`**, **`TfidfVectorizer`**
 
-## Модуль 4: SQL, Компьютерное зрение, Обучение без учителя
+## Модуль 4: SQL, Компьютерное зрение, Финальный проект
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/ipynb/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
