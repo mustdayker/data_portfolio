@@ -34,4 +34,4 @@
 -|-|-
 Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
 Определение возраста покупателей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_15_project_age_of_buyers.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_15_project_age_of_buyers.pdf)|Построить модель, которая по фотографии определит приблизительный возраст человека| Освоить методы работы с изображениями в машинном обучении **`tensorflow`**, **`keras`**
-Диплом [**ipynb**]()/[**pdf**]()|| 
+Диплом [**ipynb**]()/[**pdf**]()|Построить модель для прогнозирования оттока клиентов в телеком компании| **`ф`**, **`ф`**
