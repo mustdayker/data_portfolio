@@ -26,7 +26,7 @@
 -|-|-
 Защита персональных данных клиентов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_10_project_protection_of_personal_data.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_10_project_protection_of_personal_data.pdf)|Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.|Разобраться, как ведет себя линейная регрессия изнутри. **`numpy`**, **`sklearn`**, **`pandas`**
 Определение стоимости автомобилей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_11_project_cost_of_the_car.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_11_project_cost_of_the_car.pdf)|Построить модель для определения рыночной стоиости автомобиля| Освоить модели градиентного бустинга **`lightgbm`**, **`xgboost`**, **`catboost`**
-Прогнозирование заказов такси [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_12_project_taxi_orders.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_12_project_taxi_orders.pdf)||Освоить построение моделей для временных рядов **`lightgbm`**, **`xgboost`**, **`catboost`**
+Прогнозирование заказов такси [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_12_project_taxi_orders.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_12_project_taxi_orders.pdf)||Изучение методов работы с временными рядами **`lightgbm`**, **`xgboost`**, **`catboost`**
 Машинное обучение для текстов|| 
 
 ## Модуль 4: SQL, Компьютерное зрение, Обучение без учителя
