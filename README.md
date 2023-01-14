@@ -26,12 +26,12 @@
 -|-|-
 Защита персональных данных клиентов [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_10_project_protection_of_personal_data.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_10_project_protection_of_personal_data.pdf)|Разработать метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.|Разобраться, как ведет себя линейная регрессия изнутри. **`numpy`**, **`sklearn`**, **`pandas`**
 Определение стоимости автомобилей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_11_project_cost_of_the_car.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_11_project_cost_of_the_car.pdf)|Построить модель для определения рыночной стоиости автомобиля| Освоить модели градиентного бустинга **`lightgbm`**, **`xgboost`**, **`catboost`**
-Прогнозирование заказов такси [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_12_project_taxi_orders.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_12_project_taxi_orders.pdf)|| 
-Машинное обучение для текстов|**`3 - 9 октября`**| 
+Прогнозирование заказов такси [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_12_project_taxi_orders.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_12_project_taxi_orders.pdf)||Освоить построение моделей для временных рядов
+Машинное обучение для текстов|| 
 
 ## Модуль 4: SQL, Компьютерное зрение, Обучение без учителя
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/ipynb/main/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
-Компьютерное зрение|**`7 - 13 ноября`**| 
-Диплом|**`28 ноября - 11 декабря`**| 
+Компьютерное зрение [**ipynb**]()/[**pdf**]()|| 
+Диплом [**ipynb**]()/[**pdf**]()|| 
