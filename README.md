@@ -33,5 +33,5 @@
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
 Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
-Определение возраста покупателей [**ipynb**]()/[**pdf**]()|Построить модель, которая по фотографии определит приблизительный возраст человека| **`tensorflow`**, **`keras`**
+Определение возраста покупателей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_15_project_age_of_buyers.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_15_project_age_of_buyers.pdf)|Построить модель, которая по фотографии определит приблизительный возраст человека| **`tensorflow`**, **`keras`**
 Диплом [**ipynb**]()/[**pdf**]()|| 
