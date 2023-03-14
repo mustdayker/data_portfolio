@@ -32,6 +32,6 @@
 ## Модуль 4: SQL, Компьютерное зрение, Финальный проект
 Название проекта|Задачи проекта|Цели проекта
 -|-|-
-Венчурные фонды [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_14_project_sql.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
+Венчурные фонды [**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_14_project_sql.pdf)|Получить необходимые срезы информации из базы данных|Закрепить навыки написания запросов **`SQL`**
 Определение возраста покупателей [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_15_project_age_of_buyers.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_15_project_age_of_buyers.pdf)|Построить модель, которая по фотографии определит приблизительный возраст человека| Освоить методы работы с изображениями в машинном обучении **`tensorflow`**, **`keras`**
 Диплом [**ipynb**](https://github.com/mustdayker/data_portfolio/blob/main/ipynb/s_17_final_project.ipynb)/[**pdf**](https://github.com/mustdayker/data_portfolio/blob/main/pdf/s_17_final_project.pdf)|Построить модель для прогнозирования оттока клиентов в телеком компании|**Дипломная работа**. Закрепление пройденных тем, составление плана работ, подробный анализ и отчет о проделанной работе, общение с заказчиком. **`SoftSkills`**
