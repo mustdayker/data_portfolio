@@ -1,12 +1,14 @@
 # Портфолио
  
-## MTS
+## [MTS](https://github.com/mustdayker/data_portfolio/tree/main/mts)
 Проекты выполненные в компании ПАО "МТС"
 
+#### Продукт Коммерческая Аналитика Регион Москва (Data Engineer)
+#### Проект по реализации невостребованного оборудования
 
+-----
 
-
-Ссылки на проекты выполненые в рамках учебных курсов **Яндекс.Практикум**
+Учебные проекты из курсов **Яндекс.Практикум**
 
 #### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md)
 
