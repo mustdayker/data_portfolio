@@ -1,8 +1,14 @@
 # Портфолио
  
+## MTS
+Проекты выполненные в компании ПАО "МТС"
+
+
+
+
 Ссылки на проекты выполненые в рамках учебных курсов **Яндекс.Практикум**
 
-## [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md)
+#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md)
 
 Стек технологий:
 - `Python`
@@ -25,7 +31,7 @@
 - `Yandex.Cloud`
 
 
-## [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/ds/ds_portfolio.md)
+#### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/ds/ds_portfolio.md)
 
 Стек технологий:
 - `Python`
