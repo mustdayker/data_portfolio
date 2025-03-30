@@ -35,7 +35,7 @@
 -----
 -----
 
-<img src="data/practicum_logo.png" width="30%" style="display: block; ">
+<img src="data/practicum_logo.png" width="280" height="50" style="display: block; ">
 
 ### Учебные проекты из курсов Яндекс.Практикум
 
