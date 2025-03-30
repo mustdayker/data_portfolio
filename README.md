@@ -1,7 +1,9 @@
 # Портфолио
- 
-## [ПАО "МТС"](https://github.com/mustdayker/data_portfolio/tree/main/mts)
-Проекты выполненные в компании ПАО "МТС"
+
+<img src="mts/data/logo_mts.png" width="100" height="100" style="display: block; ">
+
+## Проекты выполненные в компании [ПАО "МТС"](https://github.com/mustdayker/data_portfolio/tree/main/mts)
+
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
@@ -18,11 +20,8 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
-<img src="mts/data/camr_diag_to_be.png" width="30%">
+<img src="mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
 
-![](mts/data/camr_diag_to_be.png)
-
-![](mts/data/camr_diag_to_be.png =250x150)
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_guz_device.ipynb)
 
