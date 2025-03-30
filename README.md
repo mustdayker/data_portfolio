@@ -26,6 +26,17 @@
 #### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md)
 
 Стек технологий:
+
+БД          | Языки   | Системы         | Технологии
+------------|---------|--------------   | ------
+`PostgreSQL`|`Python` |`HDFS`           |`Airflow`
+`MongoDB`   |`SQL`    |`Apache Spark`   |`Docker`
+`Redis`     |`NoSQL`  |`Spark Streaming`|`Git`
+`Vertica`   |`PySpark`|`Apache Kafka`   |`Datalens`
+`Metabase`  |         |`Yandex.Cloud`   | 
+
+
+
 - `Python`
 - `SQL`
 - `Airflow`
