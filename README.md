@@ -1,6 +1,6 @@
 # Портфолио
  
-## [MTS](https://github.com/mustdayker/data_portfolio/tree/main/mts)
+## [ПАО "МТС"](https://github.com/mustdayker/data_portfolio/tree/main/mts)
 Проекты выполненные в компании ПАО "МТС"
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
