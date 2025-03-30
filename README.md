@@ -35,6 +35,8 @@
 -----
 -----
 
+<img src="data/practicum_logo.png" width="20%" style="display: block; ">
+
 ### Учебные проекты из курсов Яндекс.Практикум
 
 #### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md))
