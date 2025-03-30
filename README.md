@@ -18,9 +18,11 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
-<img src="data/camr_diag_to_be.png" width="30%">
+<img src="mts/data/camr_diag_to_be.png" width="30%">
 
 ![](mts/data/camr_diag_to_be.png)
+
+![](mts/data/camr_diag_to_be.png =250x150)
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_guz_device.ipynb)
 
