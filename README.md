@@ -23,55 +23,29 @@
 
 ##### Учебные проекты из курсов Яндекс.Практикум
 
-#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md)
+#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/de/de_portfolio.md))
 
 Стек технологий:
 
-БД          | Языки   | Системы         | Технологии
-------------|---------|--------------   | ------
-`PostgreSQL`|`Python` |`HDFS`           |`Airflow`
-`MongoDB`   |`SQL`    |`Apache Spark`   |`Docker`
-`Redis`     |`NoSQL`  |`Spark Streaming`|`Git`
-`Vertica`   |`PySpark`|`Apache Kafka`   |`Datalens`
-`Metabase`  |         |`Yandex.Cloud`   | 
-
-
-
-- `Python`
-- `SQL`
-- `Airflow`
-- `PostgreSQL`
-- `NoSQL`
-- `MongoDB`
-- `Redis`
-- `Docker`
-- `HDFS`
-- `Apache Spark`
-- `PySpark`
-- `Spark Streaming`
-- `Kafka`
-- `Vertica`
-- `Git`
-- `Datalens`
-- `Metabase`
-- `Yandex.Cloud`
+|БД          | Языки   | Системы         | Технологии
+|------------|---------|--------------   | ------
+|`PostgreSQL`|`Python` |`HDFS`           |`Airflow`
+|`MongoDB`   |`SQL`    |`Apache Spark`   |`Docker`
+|`Redis`     |`NoSQL`  |`Spark Streaming`|`Git`
+|`Vertica`   |`PySpark`|`Apache Kafka`   |`Datalens`
+|`Metabase`  |         |`Yandex.Cloud`   | 
 
 
 #### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/ds/ds_portfolio.md)
 
 Стек технологий:
-- `Python`
-- `Pandas`
-- `matplotlib`
-- `scipy`
-- `numpy`
-- `Scikit-learn`
-- `Catboost`
-- `lightgbm`
-- `xgboost`
-- `Jupyter Notebook`
-- `SQL`
-- `Предобработка данных`
-- `Исследовательский анализ данных`
-- `Статистический анализ данных`
-- `Машинное обучение`
+|Языки и инструменты| Библиотеки   | Навыки        
+|-------------------|--------------|--------------   
+|`Python`           |`Pandas`      |`Предобработка данных`           
+|`SQL`              |`matplotlib`  |`Исследовательский анализ данных`   
+|`Jupyter Notebook` |`numpy`       |`Статистический анализ данных`
+|                   |`Scikit-learn`|`Машинное обучение`   
+|                   |`scipy`       |  
+|                   |`Catboost`    |
+|                   |`lightgbm`    |
+|                   |`xgboost`     |
