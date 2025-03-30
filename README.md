@@ -7,6 +7,8 @@
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
+<img src="mts/data/camr_diag_to_be.png" width="30%" style="display: block; margin: auto;">
+
 Комплексный продукт реализованный в рамках работы отедал аналитики и развития отчетности. 
 
 Включает в себя: 
@@ -20,7 +22,7 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
-<img src="mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: center;">
+
 
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_guz_device.ipynb)
