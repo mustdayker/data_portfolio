@@ -7,7 +7,7 @@
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
-<img src="mts/data/camr_diag_to_be.png" width="30%" style="display: block; margin: auto;">
+<img src="mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
 
 Комплексный продукт реализованный в рамках работы отедал аналитики и развития отчетности. 
 
@@ -35,7 +35,7 @@
 -----
 -----
 
-<img src="data/practicum_logo.png" width="20%" style="display: block; ">
+<img src="data/practicum_logo.png" width="30%" style="display: block; ">
 
 ### Учебные проекты из курсов Яндекс.Практикум
 
