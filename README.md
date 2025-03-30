@@ -20,7 +20,7 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_camr.ipynb)
 
-<img src="mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
+<img src="mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: center;">
 
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/mts/mts_guz_device.ipynb)
