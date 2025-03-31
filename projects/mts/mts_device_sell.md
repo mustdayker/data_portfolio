@@ -13,3 +13,6 @@
 
 ## Решение
 Автоматизация сбора из OEBS и 1С на Python
+
+
+<img src="data/step_guz_sketch.jpg" width="50%" style="display: block; margin: auto;">
