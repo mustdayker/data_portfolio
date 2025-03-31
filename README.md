@@ -23,7 +23,7 @@
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_camr.ipynb)
 
 
-
+-----
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_guz_device.ipynb)
 
@@ -32,8 +32,7 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_guz_device.ipynb)
 
------
------
+<img src="projects/data/white_rectangle.png" width="100%" style="display: block; margin: auto;">
 
 <img src="projects/data/practicum_logo.png" width="280" height="50" style="display: block; ">
 
