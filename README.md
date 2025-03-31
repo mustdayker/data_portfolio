@@ -39,7 +39,7 @@
 
 ### Учебные проекты из курсов Яндекс.Практикум
 
-#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/de_portfolio.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/de_portfolio.md))
+#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md))
 
 Стек технологий:
 
@@ -52,7 +52,7 @@
 |`Metabase`  |         |`Yandex.Cloud`   | 
 
 
-#### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/ds_portfolio.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/ds_portfolio.md))
+#### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md))
 
 Стек технологий:
 | Библиотеки   |Языки и инструменты| Навыки        
