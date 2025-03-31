@@ -2,11 +2,11 @@
 
 <img src="projects/data/logo_mts.png" width="100" height="100" style="display: block; ">
 
-## Проекты выполненные в компании [ПАО "МТС"](https://github.com/mustdayker/data_portfolio/tree/main/projects/mts)
+## Проекты выполненные в компании [ПАО "МТС"](projects/mts)
 
 -----
 
-### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_camr.ipynb)
+### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](projects/mts/mts_camr.md)
 
 <img src="projects/mts/data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
 
@@ -21,17 +21,17 @@
 - написание документации
 
 Ссылки:
-[**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_camr.ipynb)
+[**Jupyter**](projects/mts/mts_camr.md)
 
 
 -----
 
-### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_guz_device.ipynb)
+### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](projects/mts/mts_device_sell.md)
 
 Проект включает в себя разработку процесса по контролю, подготовке и реализации невостробованного оборудования в период санкций.
 
 Ссылки:
-[**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_guz_device.ipynb)
+[**Markdown**](projects/mts/mts_device_sell.md)
 
 -----
 
@@ -43,7 +43,7 @@
 
 -----
 
-#### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md))
+#### [Data Engineer](projects/practicum_de/readme.md) ([Ссылка](projects/practicum_de/readme.md))
 
 Стек технологий:
 
@@ -57,7 +57,7 @@
 
 -----
 
-#### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md))
+#### [Data Science](projects/practicum_ds/readme.md) ([Ссылка](projects/practicum_ds/readme.md))
 
 Стек технологий:
 | Библиотеки   |Языки и инструменты| Навыки        
