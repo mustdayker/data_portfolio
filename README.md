@@ -4,6 +4,7 @@
 
 ## Проекты выполненные в компании [ПАО "МТС"](https://github.com/mustdayker/data_portfolio/tree/main/projects/mts)
 
+-----
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_camr.ipynb)
 
@@ -32,11 +33,15 @@
 Ссылки:
 [**Jupyter**](https://github.com/mustdayker/data_portfolio/blob/main/projects/mts/mts_guz_device.ipynb)
 
+-----
+
 <img src="projects/data/white_rectangle.png" width="100%" style="display: block; margin: auto;">
 
 <img src="projects/data/practicum_logo.png" width="280" height="50" style="display: block; ">
 
 ### Учебные проекты из курсов Яндекс.Практикум
+
+-----
 
 #### [Data Engineer](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_de/readme.md))
 
@@ -50,6 +55,7 @@
 |`Vertica`   |`PySpark`|`Apache Kafka`   |`Datalens`
 |`Metabase`  |         |`Yandex.Cloud`   | 
 
+-----
 
 #### [Data Science](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md) ([Ссылка](https://github.com/mustdayker/data_portfolio/blob/main/projects/practicum_ds/readme.md))
 
