@@ -14,6 +14,8 @@
 
 <img src="data/camr_diag_as_is.png" width="50%" style="display: block; margin: auto;">
 
+-----
+
 Было решено развертывать автоматизированную систему на основе инструментов используемых в компании. 
 
 ## Этапы создания
@@ -42,10 +44,11 @@
 - Настройка бэкапов
 - Документация по процессам
 
+-----
 
-## Продукт CAMR (Commercial Analytics Moscow Region)
+## Что получилось
 
-<img src="data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
+<img src="data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
 
 ### Итоги реализации проекта
 - Своя среда для накопления данных и выполнения высоконагруженных вычислений, нет искусственных ограничений и очередей на обработку данных
