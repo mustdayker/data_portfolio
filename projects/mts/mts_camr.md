@@ -12,8 +12,6 @@
 
 ## Как было
 
-![](data/camr_diag_as_is.png)
-
 <img src="data/camr_diag_as_is.png" width="50%" style="display: block; margin: auto;">
 
 Было решено развертывать автоматизированную систему на основе инструментов используемых в компании. 
