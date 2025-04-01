@@ -22,7 +22,7 @@
 
 Ссылки:
 - [**Markdown**](projects/mts/mts_camr.md)
-- [**PDF**]()
+- [**PDF**](projects/mts/mts_camr.pdf)
 
 
 -----
