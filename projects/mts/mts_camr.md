@@ -37,6 +37,7 @@
  
 <img src="data/step_camr_sketch.jpg" width="50%" style="display: block; margin: auto;">
 
+<img src="data/camr_block_schema.png" width="50%" style="display: block; margin: auto;">
 
 ## Настройка
 - Определение источников данных и их форматов
