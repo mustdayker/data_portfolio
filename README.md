@@ -27,6 +27,8 @@
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, BI Engineer)](projects/mts/mts_device_sell.md)
 
+<img src="projects/mts/data/guz_diag_to_be.png" width="50%" style="display: block; margin: auto;">
+
 Проект включает в себя разработку процесса по контролю, подготовке и реализации невостробованного оборудования в период санкций.
 
 Ссылки:
