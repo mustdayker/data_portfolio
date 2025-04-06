@@ -18,9 +18,7 @@
 - Развертывание инфраструктуры
 - Написание документации
 
-**Подробнее по ссылке:**
-- [**Markdown**](projects/mts/mts_camr.md)
-- [**PDF**](projects/mts/mts_camr.pdf)
+**Подробнее по ссылке:** [**Markdown**](projects/mts/mts_camr.md) | [**PDF**](projects/mts/mts_camr.pdf)
 
 
 -----
