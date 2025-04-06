@@ -34,4 +34,3 @@
 - Что продано то продано
 - Что не продано утилизируем
 
-<img src="data/step_guz_sketch.jpg" width="50%" style="display: block; margin: auto;">
