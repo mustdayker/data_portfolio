@@ -31,9 +31,8 @@
 
 Проект включает в себя разработку процесса по контролю, подготовке и реализации невостробованного оборудования в период санкций.
 
-**Подробнее по ссылке:**
-- [**Markdown**](projects/mts/mts_device_sell.md)
-- [**PDF**](projects/mts/mts_device_sell.pdf)
+**Подробнее по ссылке:** [**Markdown**](projects/mts/mts_device_sell.md) | [**PDF**](projects/mts/mts_device_sell.pdf)
+
 -----
 
 <img src="projects/data/white_rectangle.png" width="100%" style="display: block; margin: auto;">
