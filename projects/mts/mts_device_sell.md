@@ -16,5 +16,5 @@
 
 ## Что получилось
 
-<img src="data/guz_diag_to_be.png" width="50%" style="display: block; margin: auto;">
+<img src="data/guz_diag_to_be.png" width="70%" style="display: block; margin: auto;">
 

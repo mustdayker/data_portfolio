@@ -20,13 +20,13 @@
 
 ## Процесс разработки продукта
  
-<img src="data/camr_block_schema.png" width="50%" style="display: block; margin: auto;">
+<img src="data/camr_block_schema.png" width="60%" style="display: block; margin: auto;">
 
 -----
 
 ## Что получилось
 
-<img src="data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
+<img src="data/camr_diag_to_be.png" width="80%" style="display: block; margin: auto;">
 
 ### Итоги реализации проекта
 - Своя среда для накопления данных и выполнения высоконагруженных вычислений, нет искусственных ограничений и очередей на обработку данных
