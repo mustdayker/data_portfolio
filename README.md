@@ -8,9 +8,10 @@
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](projects/mts/mts_camr.md)
 
-<div style="text-align: center;">
+<p style="text-align: center;">Этот текст будет по центру.
 <img src="projects/mts/data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
-</div>
+</p>
+
 Комплексный продукт по автоматизации обработки данных реализованный в рамках работы отдела аналитики и развития отчетности. 
 
 Включает в себя: 
