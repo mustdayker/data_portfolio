@@ -6,7 +6,7 @@
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](mts_camr.md)
 
-<img src="data/camr_diag_to_be.png" width="50%" style="display: block; margin: auto;">
+<img src="data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
 
 Комплексный продукт по автоматизации обработки данных реализованный в рамках работы отдела аналитики и развития отчетности. 
 
