@@ -8,7 +8,7 @@
 
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](projects/mts/mts_camr.md)
 
-<p style="text-align: center;">Этот текст будет по центру.
+<p style="text-align: center;">
 <img src="projects/mts/data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
 </p>
 
