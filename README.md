@@ -35,9 +35,19 @@
 
 -----
 
-<img src="projects/data/white_rectangle.png" width="100%" style="display: block; margin: auto;">
+<img src="projects/data/pet_01.jpg" width="300" height="300" style="display: block; ">
 
-<img src="projects/data/practicum_logo.png" width="280" height="50" style="display: block; ">
+## [Пет-проект](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
+
+### [`https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1`](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
+
+Описание чуть позже
+
+-----
+
+<img src="projects/data/practicum_logo_01.png" width="308" height="110" style="display: block; ">
+
+
 
 ### Учебные проекты из курсов Яндекс.Практикум
 
