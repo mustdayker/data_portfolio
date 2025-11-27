@@ -1,6 +1,6 @@
 # Портфолио
 
-<img src="projects/data/logo_mts.png" width="100" height="100" style="display: block; ">
+<img src="projects/data/logo_mts.png" width="150" height="150" style="display: block; ">
 
 ## Проекты выполненные в компании [ПАО "МТС"](projects/mts)
 
