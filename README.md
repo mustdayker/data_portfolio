@@ -41,7 +41,23 @@
 
 ### [`https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1`](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
 
-Описание чуть позже
+| Сервис        | Описание |
+|:--------------|-----------|
+| **`postgres-db`** | 🗄️ Основная база данных для Airflow и Superset |
+| **`minio`**     | 📦 Объектное хранилище (S3-совместимое) |
+| **`airflow-scheduler`** | 🕐 Планировщик задач Airflow |
+| **`airflow-webserver`** | 🌐 Веб-интерфейс Airflow |
+| **`spark-master`** | 🚀 Главный узел Spark кластера |
+| **`spark-worker-1`** | 🔧 Рабочий узел Spark #1 |
+| **`spark-worker-2`** | 🔧 Рабочий узел Spark #2 |
+| **`jupyter`**   | 📓 JupyterLab для разработки и анализа |
+| **`superset`**  | 📊 BI-платформа для дашбордов и визуализации |
+| **`prometheus`** | 📈 Сбор и хранение метрик |
+| **`grafana`**   | 📊 Визуализация метрик и дашборды |
+| **`node-exporter`** | 💻 Метрики хостовой системы |
+| **`postgres-exporter`** | 🗄️ Метрики PostgreSQL |
+| **`statsd-exporter`** | 📊 Экспортер StatsD метрик Airflow |
+| **`cadvisor`**  | 📊 Мониторинг ресурсов контейнеров |
 
 -----
 
