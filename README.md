@@ -35,29 +35,30 @@
 
 -----
 
-<img src="projects/data/pet_01.jpg" width="300" height="300" style="display: block; ">
-
 ## [Пет-проект](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
 
-### [`https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1`](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
+### [Data Engineering стек для оркестрации и анализа данных](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
 
-| Сервис        | Описание |
-|:--------------|-----------|
-| **`postgres-db`** | 🗄️ Основная база данных для Airflow и Superset |
-| **`minio`**     | 📦 Объектное хранилище (S3-совместимое) |
-| **`airflow-scheduler`** | 🕐 Планировщик задач Airflow |
-| **`airflow-webserver`** | 🌐 Веб-интерфейс Airflow |
-| **`spark-master`** | 🚀 Главный узел Spark кластера |
-| **`spark-worker-1`** | 🔧 Рабочий узел Spark #1 |
-| **`spark-worker-2`** | 🔧 Рабочий узел Spark #2 |
-| **`jupyter`**   | 📓 JupyterLab для разработки и анализа |
-| **`superset`**  | 📊 BI-платформа для дашбордов и визуализации |
-| **`prometheus`** | 📈 Сбор и хранение метрик |
-| **`grafana`**   | 📊 Визуализация метрик и дашборды |
-| **`node-exporter`** | 💻 Метрики хостовой системы |
-| **`postgres-exporter`** | 🗄️ Метрики PostgreSQL |
-| **`statsd-exporter`** | 📊 Экспортер StatsD метрик Airflow |
-| **`cadvisor`**  | 📊 Мониторинг ресурсов контейнеров |
+<img src="projects/data/pet_00.jpg" width="250" height="250" style="display: block; ">
+
+В **Docker** был реализован учебный стенд по обработке данных, состоящий из следующих сервисов:
+
+### ⚡ Ядро
+- `Airflow` - оркестрация пайплайнов
+- `Spark` - распределенная обработка
+- `Jupyter` - разработка и анализ
+
+### 📊 Визуализация
+- `Superset` - дашборды и BI
+- `Grafana` - мониторинг метрик
+
+### 🗄️ Данные
+- `PostgreSQL` - метаданные и аналитика
+- `MinIO` - объектное хранилище
+
+### 📈 Мониторинг
+- `Prometheus` - сбор метрик
+- `Экспортеры` - метрики всех компонентов
 
 -----
 
