@@ -39,6 +39,8 @@
 
 ### [Data Engineering стек для оркестрации и анализа данных](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1)
 
+Репозиторий и инструкция по сборке тут: [**Ссылка**](https://github.com/mustdayker/docker_projects/tree/main/etl_project_v1) 
+
 <img src="projects/data/pet_00.jpg" width="250" height="250" style="display: block; ">
 
 В **Docker** был реализован учебный стенд по обработке данных, состоящий из следующих сервисов:
