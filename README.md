@@ -9,7 +9,7 @@
 ### [Продукт Коммерческая Аналитика Регион Москва (Data Engineer, Project Manager)](projects/mts/mts_camr.md)
 
 
-<img src="projects/mts/data/camr_diag_to_be.png" width="70%" style="display: block; margin: auto;">
+<img src="projects/mts/data/camr_diag_to_be.png" width="100%" style="display: block; margin: auto;">
 
 
 Комплексный продукт по автоматизации обработки данных реализованный в рамках работы отдела аналитики и развития отчетности. 
@@ -27,7 +27,7 @@
 
 ### [Проект по реализации невостребованного оборудования (Project Manager, ETL, BI)](projects/mts/mts_device_sell.md)
 
-<img src="projects/mts/data/guz_diag_to_be.png" width="60%" style="display: block; margin: auto;">
+<img src="projects/mts/data/guz_diag_to_be.png" width="70%" style="display: block; margin: auto;">
 
 Проект включает в себя разработку процесса по контролю, подготовке и реализации невостробованного оборудования в период санкций.
 
@@ -60,7 +60,7 @@
 - `Prometheus` - сбор метрик
 - `Экспортеры` - метрики всех компонентов
 
-
+Полный список контейнеров:
 <img src="projects/data/pet_02.png"  style="display: block; ">
 
 -----
