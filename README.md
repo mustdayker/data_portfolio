@@ -60,6 +60,9 @@
 - `Prometheus` - сбор метрик
 - `Экспортеры` - метрики всех компонентов
 
+
+<img src="projects/data/pet_02.png"  style="display: block; ">
+
 -----
 
 <img src="projects/data/practicum_logo_01.png" width="308" height="110" style="display: block; ">
