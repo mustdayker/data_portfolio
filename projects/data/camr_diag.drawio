@@ -742,8 +742,8 @@
         <mxCell id="vyFduntf7nAZJ--f2JTK-21" value="&lt;font&gt;ETL Python&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Consolas;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1430.28" y="431.25" width="124.66" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="vyFduntf7nAZJ--f2JTK-22" value="&lt;div&gt;&lt;font&gt;Power Query&lt;/font&gt;&lt;/div&gt;&lt;font&gt;Power BI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Consolas;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="1422.28" y="605.37" width="140" height="37" as="geometry" />
+        <mxCell id="vyFduntf7nAZJ--f2JTK-22" value="&lt;div&gt;&lt;font&gt;Power Query&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Power Pivot&lt;/font&gt;&lt;/div&gt;&lt;font&gt;Power BI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontFamily=Consolas;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="1422.28" y="570" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vyFduntf7nAZJ--f2JTK-47" value="&lt;font&gt;Витрина данных&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontFamily=Consolas;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1065" y="133" width="480" height="46" as="geometry" />
