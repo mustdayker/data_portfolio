@@ -25,6 +25,8 @@
 
 -----
 
+<img src="projects/data/logo_mts.png" width="150" height="150" style="display: block; ">
+
 ### [Проект по реализации невостребованного оборудования (Project Manager, ETL, BI)](projects/mts/mts_device_sell.md)
 
 <img src="projects/mts/data/guz_diag_to_be.png" width="70%" style="display: block; margin: auto;">
