@@ -29,6 +29,7 @@ $RECYCLE.BIN/
 
 # Folders
 datasets
+.DS_Store
 
 # Other
 .gitattributes
