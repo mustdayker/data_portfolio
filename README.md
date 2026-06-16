@@ -1,5 +1,11 @@
 # Портфолио
 
+-----
+
+<img src="projects/data/sber_logo_03.png" width="200"  style="display: block; ">
+
+## Проекты выполненные в компании ПАО "Сбербанк"
+____
 <img src="projects/data/logo_mts.png" width="150" height="150" style="display: block; ">
 
 ## Проекты выполненные в компании [ПАО "МТС"](projects/mts)
